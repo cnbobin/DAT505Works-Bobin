@@ -1,0 +1,14 @@
+/*My CSS, if required, goes here*/
+*{
+    /*Removes white border around edge of canvas*/
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+body{
+    /* Removes Scroll bars */
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
